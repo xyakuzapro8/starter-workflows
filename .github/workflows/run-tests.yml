@@ -17,12 +17,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd path/to/your/project
+          cd src
           npm install
 
       - name: Run tests
         run: |
-          cd path/to/your/project
+          cd src
           npm test
 
       - name: Install Cohere CLI
