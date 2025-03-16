@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{subject}}</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            color: white;
+        }
+        .content {
+            padding: 30px 20px;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #ff6b6b;
+            color: white;
+            padding: 12px 30px;
+            text-decoration: none;
+            border-radius: 25px;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+        .footer {
+            background-color: #f1f1f1;
+            padding: 15px;
+            text-align: center;
+            font-size: 12px;
+            color: #666;
+        }
+        .social-icons {
+            margin: 15px 0;
+        }
+        .social-icons a {
+            display: inline-block;
+            margin: 0 10px;
+            color: #666;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>{{subject}}</h1>
+        </div>
+        
+        <div class="content">
+            {{{content}}}
+                                  <center>
+                                      <a href="{{ctaLink}}" class="cta-button">{{#if ctaText}}{{ctaText}}{{else}}GET STARTED NOW{{/if}}</a>
+                                  </center>
+            </center>
+        </div>
+        
+        <div class="footer">
+            <div class="social-icons">
+                <a href="{{#if social.facebook}}{{social.facebook}}{{else}}#{{/if}}">Facebook</a>
+                <a href="{{#if social.twitter}}{{social.twitter}}{{else}}#{{/if}}">Twitter</a>
+                <a href="{{#if social.instagram}}{{social.instagram}}{{else}}#{{/if}}">Instagram</a>
+            </div>
+            <p>© {{#if formatDate}}{{formatDate timestamp 'YYYY'}}{{else}}2025{{/if}} {{#if companyName}}{{companyName}}{{else}}Your Company{{/if}}. All rights reserved.</p>
+            <p>You're receiving this email because you signed up for our newsletter. <a href="{{unsubscribeUrl}}?email={{recipient.email}}&mid={{messageId}}">Unsubscribe</a></p>
+        </div>
+    </div>
+    
+    {{#if trackingPixel}}
+    {{{trackingPixel}}}
+    {{/if}}
+</body>
+</html>

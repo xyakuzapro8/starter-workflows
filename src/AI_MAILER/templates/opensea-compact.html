@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenSea</title>
+</head>
+<body style="margin:0;padding:0;font-family:Arial,sans-serif;background:#f9f9f9;">
+  <div style="max-width:600px;margin:0 auto;background:#fff;border-radius:8px;">
+    <div style="padding:20px;text-align:center;"><img src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" alt="OpenSea" width="120"></div>
+    <div style="padding:0 25px 20px;">
+      <h2 style="color:#1C2033;font-size:20px;margin:0 0 15px;">Hello {{recipient.name}},</h2>
+      {{#if aiContent}}<div>{{aiContent}}</div>{{/if}}
+      <p style="text-align:center;margin:20px 0;"><a href="https://example.com/waitlist?ref={{recipient.email}}" style="background:#2081e2;color:#fff;text-decoration:none;padding:10px 20px;border-radius:4px;font-weight:500;">Join Waitlist</a></p>
+    </div>
+    <div style="padding:15px;border-top:1px solid #eee;background:#f9f9f9;color:#666;font-size:12px;text-align:center;">© 2023 OpenSea</div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenSea Exclusive Offer</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #1E293B;
+      background-color: #f8fafc;
+    }
+    .wrapper {
+      width: 100%;
+      background-color: #f8fafc;
+      padding: 20px 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    }
+    .header {
+      background-color: #2081e2;
+      padding: 30px 20px;
+      text-align: center;
+      color: white;
+    }
+    .logo {
+      width: 150px;
+      height: auto;
+    }
+    .content {
+      padding: 30px;
+    }
+    h1 {
+      color: #ffffff;
+      margin: 15px 0 5px;
+      font-size: 24px;
+    }
+    h2 {
+      color: #1E293B;
+      margin-top: 0;
+      margin-bottom: 20px;
+      font-size: 20px;
+    }
+    p {
+      margin-bottom: 20px;
+      color: #475569;
+    }
+    .highlight {
+      background-color: #f0f9ff;
+      border-left: 4px solid #2081e2;
+      padding: 15px;
+      margin: 25px 0;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #2081e2;
+      color: white;
+      text-decoration: none;
+      padding: 12px 30px;
+      border-radius: 4px;
+      font-weight: bold;
+      margin: 15px 0;
+    }
+    .footer {
+      background-color: #f1f5f9;
+      padding: 20px;
+      text-align: center;
+      font-size: 13px;
+      color: #64748b;
+    }
+    .feature {
+      margin-bottom: 25px;
+      display: flex;
+      align-items: flex-start;
+    }
+    .feature-icon {
+      flex: 0 0 30px;
+      font-size: 22px;
+      margin-right: 10px;
+      color: #2081e2;
+    }
+    .feature-text {
+      flex: 1;
+    }
+    .feature-title {
+      font-weight: bold;
+      margin-bottom: 5px;
+      color: #334155;
+    }
+    .urgent-banner {
+      background-color: #fef3c7;
+      color: #92400e;
+      text-align: center;
+      padding: 8px;
+      font-weight: bold;
+      font-size: 14px;
+      margin: 0 0 20px;
+    }
+    .ai-content {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="container">
+      <div class="header">
+        <img class="logo" src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(light).svg" alt="OpenSea">
+        <h1>🚨 Exclusive Early Access 🚨</h1>
+      </div>
+
+      <div class="content">
+        <div class="urgent-banner">Limited Time Offer - Only 500 Spots Available</div>
+        
+        {{#if aiContent}}
+        <div class="ai-content">
+          {{aiContent}}
+        </div>
+        {{else}}
+        <h2>Hey {{recipient.name}},</h2>
+        
+        <p>Something huge is about to hit OpenSea, and we couldn't think of anyone better than YOU to get first dibs on it! 🎉</p>
+        
+        <p>🚀 <strong>Get Ready to Experience the Future of NFTs</strong><br>
+        We've been secretly working on a groundbreaking new feature that's going to revolutionize how you buy, sell, and experience NFTs. Think of it as the next big thing after the Bored Apes — and YOU are the chosen one to be among the first to access it.</p>
+        
+        <div class="highlight">
+          <p>Here's what's coming:</p>
+        </div>
+        
+        <div class="feature">
+          <div class="feature-icon">✨</div>
+          <div class="feature-text">
+            <div class="feature-title">NFTs with Exclusive Unlockable Content</div>
+            <p>Imagine owning an NFT that gives you access to something incredible beyond just digital art.</p>
+          </div>
+        </div>
+        
+        <div class="feature">
+          <div class="feature-icon">🔥</div>
+          <div class="feature-text">
+            <div class="feature-title">The Future of Collectibles</div>
+            <p>This new system will change the way people view the NFT marketplace. You'll have the chance to claim some of the most rare and valuable drops.</p>
+          </div>
+        </div>
+        
+        <div class="feature">
+          <div class="feature-icon">🎯</div>
+          <div class="feature-text">
+            <div class="feature-title">Early Access to a Limited Edition Series</div>
+            <p>These NFTs are so rare that only the most elite collectors (a.k.a. you) will have the chance to get them.</p>
+          </div>
+        </div>
+        {{/if}}
+        
+        <div style="text-align:center; margin-top: 30px;">
+          <a href="https://example.com/opensea-waitlist?ref={{recipient.email}}" class="btn">Claim My Early Access</a>
+          <p style="font-size:14px;color:#64748b;margin-top:8px;">Early access closes in 48 hours</p>
+        </div>
+      </div>
+      
+      <div class="footer">
+        <p>&copy; 2023 OpenSea. All rights reserved.</p>
+        <p>You're receiving this email because you signed up for OpenSea notifications.</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

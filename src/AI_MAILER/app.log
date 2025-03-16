@@ -1,0 +1,1262 @@
+2025-03-09T13:20:58.049Z [INFO]: Server running on port 3000
+2025-03-09T13:26:49.640Z [ERROR]: Error sending email to unknown: Greeting never received
+2025-03-09T13:30:47.235Z [INFO]: Server running on port 3000
+2025-03-09T13:31:34.740Z [ERROR]: Error sending email to unknown: Greeting never received
+2025-03-09T13:34:27.325Z [ERROR]: Error sending email to unknown: Greeting never received
+2025-03-09T13:35:18.571Z [INFO]: Server running on port 3000
+2025-03-09T13:38:55.787Z [INFO]: Server running on port 3000
+2025-03-09T13:39:37.327Z [INFO]: Server running on port 3000
+2025-03-09T13:41:23.786Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:41:23.816Z [INFO]: Server running on port 3000
+2025-03-09T13:41:45.045Z [ERROR]: Error sending email to unknown: No recipients defined
+2025-03-09T13:44:57.196Z [ERROR]: Error sending email to unknown: No recipients defined
+2025-03-09T13:52:07.378Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:52:07.396Z [INFO]: Server running on port 3000
+2025-03-09T13:52:10.941Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:52:10.951Z [INFO]: Server running on port 3000
+2025-03-09T13:52:14.029Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:52:14.043Z [INFO]: Server running on port 3000
+2025-03-09T13:52:15.404Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:52:15.415Z [INFO]: Server running on port 3000
+2025-03-09T13:52:16.611Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:52:16.622Z [INFO]: Server running on port 3000
+2025-03-09T13:54:52.539Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T13:54:52.539Z [ERROR]: AI generation error: cohereAI is not defined
+2025-03-09T13:55:00.716Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741528492542-9vvbmmwx
+2025-03-09T13:55:01.241Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-09T13:55:01.241Z [ERROR]: AI generation error: cohereAI is not defined
+2025-03-09T13:55:05.946Z [INFO]: Email sent to adamlorde8@gmail.com: msg-1741528501243-zl8ka166
+2025-03-09T13:56:16.879Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:56:16.928Z [INFO]: Server running on port 3000
+2025-03-09T13:56:19.016Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:56:19.030Z [INFO]: Server running on port 3000
+2025-03-09T13:56:36.809Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:56:36.825Z [INFO]: Server running on port 3000
+2025-03-09T13:56:38.454Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:56:38.465Z [INFO]: Server running on port 3000
+2025-03-09T13:56:43.475Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:56:43.487Z [INFO]: Server running on port 3000
+2025-03-09T13:56:46.007Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:56:46.017Z [INFO]: Server running on port 3000
+2025-03-09T13:56:47.637Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:56:47.650Z [INFO]: Server running on port 3000
+2025-03-09T13:57:05.698Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T13:57:05.710Z [INFO]: Server running on port 3000
+2025-03-09T13:58:06.164Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741528681379-dongyzjd
+2025-03-09T13:58:11.578Z [INFO]: Email sent to adamlorde8@gmail.com: msg-1741528686722-3twnbul3
+2025-03-09T14:07:49.627Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:07:49.651Z [INFO]: Server running on port 3000
+2025-03-09T14:07:54.898Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:07:54.933Z [INFO]: Server running on port 3000
+2025-03-09T14:07:56.534Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:07:56.550Z [INFO]: Server running on port 3000
+2025-03-09T14:08:00.739Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:08:00.763Z [INFO]: Server running on port 3000
+2025-03-09T14:08:30.162Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:08:30.178Z [INFO]: Server running on port 3000
+2025-03-09T14:08:31.862Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:08:31.874Z [INFO]: Server running on port 3000
+2025-03-09T14:10:32.792Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:10:32.802Z [INFO]: Server running on port 3000
+2025-03-09T14:10:37.500Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:10:37.512Z [INFO]: Server running on port 3000
+2025-03-09T14:10:41.089Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:10:41.115Z [INFO]: Server running on port 3000
+2025-03-09T14:10:42.978Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:10:42.989Z [INFO]: Server running on port 3000
+2025-03-09T14:14:35.112Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:14:35.123Z [INFO]: Server running on port 3000
+2025-03-09T14:14:37.477Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:14:37.488Z [INFO]: Server running on port 3000
+2025-03-09T14:15:20.829Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:15:20.847Z [INFO]: Server running on port 3000
+2025-03-09T14:15:27.999Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:15:28.010Z [INFO]: Server running on port 3000
+2025-03-09T14:16:21.056Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T14:16:21.056Z [ERROR]: AI generation error: cohereAI is not defined
+2025-03-09T14:16:32.593Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741529781059-1p1su6n7
+2025-03-09T14:16:32.909Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-09T14:16:32.910Z [ERROR]: AI generation error: cohereAI is not defined
+2025-03-09T14:16:37.459Z [INFO]: Email sent to adamlorde8@gmail.com: msg-1741529792910-vg91n9m8
+2025-03-09T14:20:45.508Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T14:20:45.518Z [ERROR]: AI generation error: cohereAI is not defined
+2025-03-09T14:20:53.045Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741530045539-s2ckqwpc
+2025-03-09T14:22:13.416Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:22:13.456Z [INFO]: Server running on port 3000
+2025-03-09T14:22:14.593Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:22:14.606Z [INFO]: Server running on port 3000
+2025-03-09T14:22:17.249Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:22:17.265Z [INFO]: Server running on port 3000
+2025-03-09T14:22:18.825Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:22:18.840Z [INFO]: Server running on port 3000
+2025-03-09T14:27:56.488Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:27:56.510Z [INFO]: Server running on port 3000
+2025-03-09T14:27:56.510Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T14:27:58.171Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:27:58.182Z [INFO]: Server running on port 3000
+2025-03-09T14:27:58.183Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T14:28:08.189Z [WARN]: Existing transporter invalid, creating new one: SMTP verification timeout
+2025-03-09T14:28:08.189Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-09T14:28:08.190Z [INFO]: SMTP connection verified successfully
+2025-03-09T14:28:09.712Z [INFO]: SMTP connection successful on startup
+2025-03-09T14:28:29.221Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T14:28:31.219Z [INFO]: Generated subject: Claim Your NFT Elite Status: Join the Exclusive Waitlist on OpenSea
+2025-03-09T14:28:35.268Z [INFO]: Generated email body (898 chars)
+2025-03-09T14:28:46.399Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741530515271-6k95tp6y
+2025-03-09T14:32:53.477Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:32:53.507Z [INFO]: Server running on port 3000
+2025-03-09T14:32:53.510Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T14:32:58.210Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T14:32:58.226Z [INFO]: Server running on port 3000
+2025-03-09T14:32:58.227Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T14:33:01.728Z [INFO]: SMTP connection successful on startup
+2025-03-09T14:37:09.781Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T14:37:11.406Z [INFO]: Generated subject: You've Been Invited to Join Our Exclusive NFT Club on OpenSea! Opt In Now!
+2025-03-09T14:37:17.190Z [INFO]: Generated email body (1216 chars)
+2025-03-09T14:37:22.061Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741531037191-wogs5qab
+2025-03-09T14:37:22.504Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-09T14:37:24.202Z [INFO]: Generated subject: You've Been Minted! - OpenSea NFT Marketplace Await List [EXCLUSIVE]
+2025-03-09T14:37:28.953Z [INFO]: Generated email body (903 chars)
+2025-03-09T14:37:33.353Z [INFO]: Email sent to adamlorde8@gmail.com: msg-1741531048954-4hmjhho8
+2025-03-09T15:29:56.358Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T15:29:56.386Z [INFO]: Server running on port 3000
+2025-03-09T15:29:56.387Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T15:29:59.008Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T15:29:59.023Z [INFO]: Server running on port 3000
+2025-03-09T15:29:59.023Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T15:30:03.575Z [INFO]: SMTP connection successful on startup
+2025-03-09T15:30:33.587Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T15:30:36.423Z [INFO]: Generated subject: Wow! You've been shortlisted for the OpenSea NFT Waitlist!
+2025-03-09T15:30:42.132Z [INFO]: Generated email body (1143 chars)
+2025-03-09T15:30:46.759Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741534242135-w3k3jdnw
+2025-03-09T15:39:30.003Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T15:39:31.803Z [INFO]: Generated subject: You've Been Minted! - OpenSea NFT Marketplace Waitlist Exclusive
+2025-03-09T15:39:36.869Z [INFO]: Generated email body (1046 chars)
+2025-03-09T15:39:44.362Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741534776879-w3559ix9
+2025-03-09T16:08:16.454Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T16:08:18.472Z [INFO]: Generated subject: You've Been Minted! - OpenSea Waitlist Exclusive
+2025-03-09T16:08:23.148Z [INFO]: Generated email body (1038 chars)
+2025-03-09T16:08:30.444Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741536503157-tr88anu4
+2025-03-09T19:29:44.315Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:29:44.325Z [INFO]: Server running on port 3000
+2025-03-09T19:29:44.326Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:29:49.578Z [INFO]: SMTP connection successful on startup
+2025-03-09T19:30:12.219Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T19:30:18.213Z [INFO]: Generated subject: Your NFT Fortune Awaits: Confirm Your OpenSea Waitlist Slot Now!
+2025-03-09T19:30:21.531Z [INFO]: Generated email body (694 chars)
+2025-03-09T19:30:25.375Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741548621533-d4ry4lk7
+2025-03-09T19:33:14.632Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:33:14.670Z [INFO]: Server running on port 3000
+2025-03-09T19:33:14.676Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:33:17.653Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:33:17.669Z [INFO]: Server running on port 3000
+2025-03-09T19:33:17.669Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:33:20.284Z [INFO]: SMTP connection successful on startup
+2025-03-09T19:33:50.018Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T19:33:53.026Z [INFO]: Generated subject: Join the Exclusive Waitlist for NFT Paradise on OpenSea!
+2025-03-09T19:33:58.044Z [INFO]: Generated email body (870 chars)
+2025-03-09T19:34:01.939Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741548838046-6l2miq74
+2025-03-09T19:37:09.134Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:37:09.168Z [INFO]: Server running on port 3000
+2025-03-09T19:37:09.169Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:37:11.113Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:37:11.146Z [INFO]: Server running on port 3000
+2025-03-09T19:37:11.150Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:37:14.035Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:37:14.059Z [INFO]: Server running on port 3000
+2025-03-09T19:37:14.061Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:37:16.678Z [INFO]: SMTP connection successful on startup
+2025-03-09T19:37:18.789Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:37:18.805Z [INFO]: Server running on port 3000
+2025-03-09T19:37:18.806Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:37:23.645Z [INFO]: SMTP connection successful on startup
+2025-03-09T19:37:48.897Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T19:37:51.233Z [INFO]: Generated subject: 🔥🚀 URGENT: Action Required ASAP 📩
+2025-03-09T19:38:02.838Z [INFO]: Generated email body (1644 chars)
+2025-03-09T19:38:06.732Z [ERROR]: API error: recipient is not defined
+2025-03-09T19:40:06.303Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T19:40:07.944Z [INFO]: Generated subject: 🔥🚀 URGENT: Action Required ASAP 📩
+2025-03-09T19:40:18.688Z [INFO]: Generated email body (1569 chars)
+2025-03-09T19:40:22.728Z [ERROR]: API error: recipient is not defined
+2025-03-09T19:49:06.900Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:49:06.925Z [INFO]: Server running on port 3000
+2025-03-09T19:49:06.926Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:49:12.538Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:49:12.558Z [INFO]: Server running on port 3000
+2025-03-09T19:49:12.560Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:49:14.943Z [INFO]: SMTP connection successful on startup
+2025-03-09T19:50:30.714Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T19:50:32.249Z [INFO]: Generated subject: Urgent🚨 Open Now: 𝗧𝗵𝗲 𝗥𝗲𝗺𝗼𝘁𝗲 𝗦�
+2025-03-09T19:50:46.006Z [INFO]: Generated email body (1505 chars)
+2025-03-09T19:50:50.525Z [ERROR]: Error sending email to xyakuzapro@gmail.com: Message failed: 550 This messsage is classified as spam (14.2).
+2025-03-09T19:50:50.855Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-09T19:50:51.632Z [INFO]: Generated subject: Urgent 🔥 Info About Upcoming Closure 🚫🔲
+2025-03-09T19:51:16.923Z [INFO]: Generated email body (1942 chars)
+2025-03-09T19:51:22.036Z [ERROR]: Error sending email to adamlorde8@gmail.com: Message failed: 550 This messsage is classified as spam (12.2).
+2025-03-09T19:56:03.037Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:56:03.064Z [INFO]: Server running on port 3000
+2025-03-09T19:56:03.065Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:56:05.599Z [INFO]: SMTP connection successful on startup
+2025-03-09T19:59:04.911Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:59:04.936Z [INFO]: Server running on port 3000
+2025-03-09T19:59:04.937Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:59:07.797Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:59:07.821Z [INFO]: Server running on port 3000
+2025-03-09T19:59:07.832Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:59:08.873Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:59:08.885Z [INFO]: Server running on port 3000
+2025-03-09T19:59:08.886Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:59:13.017Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T19:59:13.041Z [INFO]: Server running on port 3000
+2025-03-09T19:59:13.045Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T19:59:17.310Z [INFO]: SMTP connection successful on startup
+2025-03-09T19:59:25.102Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T19:59:26.735Z [INFO]: Generated subject: You've Been Invited! - OpenSea NFT Marketplace Waitlist
+2025-03-09T19:59:34.188Z [INFO]: Generated email body (1391 chars)
+2025-03-09T19:59:37.943Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741550374189-sro7oi2z
+2025-03-09T19:59:38.200Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-09T19:59:39.605Z [INFO]: Generated subject: You've Been Invited to Join the Exclusive OpenSea NFT Marketplace Waitlist!
+2025-03-09T19:59:50.009Z [INFO]: Generated email body (1334 chars)
+2025-03-09T19:59:54.836Z [INFO]: Email sent to adamlorde8@gmail.com: msg-1741550390011-4dyvhx6p
+2025-03-09T20:02:38.875Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-09T20:02:38.899Z [INFO]: Server running on port 3000
+2025-03-09T20:02:38.899Z [INFO]: Cohere AI module loaded successfully
+2025-03-09T20:02:43.486Z [INFO]: SMTP connection successful on startup
+2025-03-09T20:03:01.188Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-09T20:03:02.010Z [INFO]: Generated subject: You've Been Invited to Join the Exclusive OpenSea NFT Waitlist!
+2025-03-09T20:03:07.361Z [INFO]: Generated email body (1013 chars)
+2025-03-09T20:03:11.631Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741550587363-p0vujbte
+2025-03-09T20:03:12.298Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-09T20:03:14.010Z [INFO]: Generated subject: You've Been Invited to Join the Exclusive OpenSea NFT Waitlist!
+2025-03-09T20:03:21.795Z [INFO]: Generated email body (1378 chars)
+2025-03-09T20:03:25.678Z [INFO]: Email sent to adamlorde8@gmail.com: msg-1741550601796-oeb9hslw
+2025-03-10T04:33:22.696Z [INFO]: SMTP transport created for shared81.accountservergroup.com:465
+2025-03-10T04:33:22.715Z [INFO]: Server running on port 3000
+2025-03-10T04:33:22.716Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T04:33:27.795Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T04:33:27.796Z [INFO]: Creating SMTP transporter for shared81.accountservergroup.com:465 (secure: true)
+2025-03-10T04:33:27.797Z [INFO]: SMTP connection verified successfully
+2025-03-10T04:33:35.084Z [ERROR]: SMTP connection check failed on startup: Invalid login: 535 Incorrect authentication data
+2025-03-10T04:33:49.749Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T04:33:51.284Z [INFO]: Generated subject: You've Been Invited to Join the Exclusive OpenSea Waitlist!
+2025-03-10T04:34:01.223Z [INFO]: Generated email body (1128 chars)
+2025-03-10T04:34:05.078Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T04:34:05.079Z [INFO]: Creating SMTP transporter for shared81.accountservergroup.com:465 (secure: true)
+2025-03-10T04:34:05.081Z [INFO]: SMTP connection verified successfully
+2025-03-10T04:34:12.115Z [ERROR]: Error sending email to xyakuzapro@gmail.com: Invalid login: 535 Incorrect authentication data
+2025-03-10T04:34:12.369Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T04:34:14.134Z [INFO]: Generated subject: You've Been Invited! - OpenSea NFT Marketplace Waitlist
+2025-03-10T04:34:22.139Z [INFO]: Generated email body (1334 chars)
+2025-03-10T04:34:25.711Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T04:34:25.712Z [INFO]: Creating SMTP transporter for shared81.accountservergroup.com:465 (secure: true)
+2025-03-10T04:34:25.714Z [INFO]: SMTP connection verified successfully
+2025-03-10T04:34:28.721Z [ERROR]: Error sending email to adamlorde8@gmail.com: Invalid login: 535 Incorrect authentication data
+2025-03-10T04:36:15.485Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T04:36:21.761Z [INFO]: Generated subject: You've Been Invited to the Exclusive OpenSea NFT Waitlist!
+2025-03-10T04:36:36.360Z [INFO]: Generated email body (1114 chars)
+2025-03-10T04:36:40.137Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T04:36:40.137Z [INFO]: Creating SMTP transporter for shared81.accountservergroup.com:465 (secure: true)
+2025-03-10T04:36:40.139Z [INFO]: SMTP connection verified successfully
+2025-03-10T04:36:47.705Z [ERROR]: Error sending email to xyakuzapro@gmail.com: Invalid login: 535 Incorrect authentication data
+2025-03-10T04:36:47.962Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T04:36:49.667Z [INFO]: Generated subject: You've Been Invited to the Exclusive OpenSea NFT Waitlist 🎉
+2025-03-10T04:36:57.393Z [INFO]: Generated email body (1461 chars)
+2025-03-10T04:37:01.091Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T04:37:01.091Z [INFO]: Creating SMTP transporter for shared81.accountservergroup.com:465 (secure: true)
+2025-03-10T04:37:01.093Z [INFO]: SMTP connection verified successfully
+2025-03-10T04:37:04.117Z [ERROR]: Error sending email to adamlorde8@gmail.com: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:04:33.061Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:04:33.076Z [INFO]: Server running on port 3000
+2025-03-10T15:04:33.076Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:04:38.523Z [WARN]: Existing transporter invalid, creating new one: 406B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:04:38.523Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:04:38.524Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:04:39.237Z [ERROR]: SMTP connection check failed on startup: 406B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:04:58.846Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:04:58.856Z [INFO]: Server running on port 3000
+2025-03-10T15:04:58.856Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:04:59.749Z [WARN]: Existing transporter invalid, creating new one: 8C360000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:04:59.749Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:04:59.750Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:05:02.498Z [ERROR]: SMTP connection check failed on startup: 8C360000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:06:10.314Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:06:10.324Z [INFO]: Server running on port 3000
+2025-03-10T15:06:10.325Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:06:11.295Z [WARN]: Existing transporter invalid, creating new one: 50260000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:06:11.295Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:06:11.296Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:06:12.727Z [ERROR]: SMTP connection check failed on startup: 50260000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:10:07.474Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:10:07.493Z [INFO]: Server running on port 3000
+2025-03-10T15:10:07.493Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:10:08.457Z [WARN]: Existing transporter invalid, creating new one: E40B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:10:08.458Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:10:08.459Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:10:09.184Z [ERROR]: SMTP connection check failed on startup: E40B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:10:23.716Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:10:23.729Z [INFO]: Server running on port 3000
+2025-03-10T15:10:23.730Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:10:26.172Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:11:01.152Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:11:01.174Z [INFO]: Server running on port 3000
+2025-03-10T15:11:01.178Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:11:03.343Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:11:06.829Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:11:06.841Z [INFO]: Server running on port 3000
+2025-03-10T15:11:06.842Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:11:13.815Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:11:59.452Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T15:12:00.964Z [INFO]: Generated subject: You've Been Invited to the Exclusive OpenSea NFT Waitlist!
+2025-03-10T15:12:06.629Z [INFO]: Generated email body (1147 chars)
+2025-03-10T15:12:09.599Z [ERROR]: Error sending email to xyakuzapro@gmail.com: Can't send mail - all recipients were rejected: 550 [E3] Message rejected because sender's email is not confirmed.
+2025-03-10T15:12:10.133Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T15:12:11.647Z [INFO]: Generated subject: You've Been Invited! - OpenSea NFT Marketplace Waitlist
+2025-03-10T15:12:17.689Z [INFO]: Generated email body (1150 chars)
+2025-03-10T15:12:20.059Z [ERROR]: Error sending email to adamlorde8@gmail.com: Can't send mail - all recipients were rejected: 550 [E3] Message rejected because sender's email is not confirmed.
+2025-03-10T15:16:12.246Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T15:16:13.521Z [INFO]: Generated subject: You've Been Invited to Join the Exclusive OpenSea NFT Waitlist!
+2025-03-10T15:16:17.739Z [INFO]: Generated email body (841 chars)
+2025-03-10T15:16:20.002Z [ERROR]: Error sending email to xyakuzapro@gmail.com: Can't send mail - all recipients were rejected: 550 [E3] Message rejected because sender's email is not confirmed.
+2025-03-10T15:16:20.401Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T15:16:21.914Z [INFO]: Generated subject: You've Been Invited to Join the Exclusive OpenSea NFT Waitlist!
+2025-03-10T15:16:27.710Z [INFO]: Generated email body (1184 chars)
+2025-03-10T15:16:30.301Z [ERROR]: Error sending email to adamlorde8@gmail.com: Can't send mail - all recipients were rejected: 550 [E3] Message rejected because sender's email is not confirmed.
+2025-03-10T15:18:30.945Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T15:18:32.860Z [INFO]: Generated subject: You've Been Invited to the Exclusive OpenSea Waitlist!
+2025-03-10T15:18:38.006Z [INFO]: Generated email body (1033 chars)
+2025-03-10T15:18:42.306Z [ERROR]: Error sending email to xyakuzapro@gmail.com: Can't send mail - all recipients were rejected: 550 [E3] Message rejected because sender's email is not confirmed.
+2025-03-10T15:18:42.541Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T15:18:43.954Z [INFO]: Generated subject: You've Been Invited to Join the Exclusive OpenSea NFT Waitlist 🔥
+2025-03-10T15:18:55.825Z [INFO]: Generated email body (911 chars)
+2025-03-10T15:18:58.785Z [ERROR]: Error sending email to adamlorde8@gmail.com: Can't send mail - all recipients were rejected: 550 [E3] Message rejected because sender's email is not confirmed.
+2025-03-10T15:20:46.437Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:20:46.457Z [INFO]: Server running on port 3000
+2025-03-10T15:20:46.457Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:20:49.801Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:23:10.857Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:23:10.887Z [INFO]: Server running on port 3000
+2025-03-10T15:23:10.888Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:23:12.553Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:23:12.563Z [INFO]: Server running on port 3000
+2025-03-10T15:23:12.563Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:23:14.155Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:23:14.169Z [INFO]: Server running on port 3000
+2025-03-10T15:23:14.170Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:23:15.084Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:23:15.095Z [INFO]: Server running on port 3000
+2025-03-10T15:23:15.095Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:23:16.902Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:23:18.042Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:23:18.054Z [INFO]: Server running on port 3000
+2025-03-10T15:23:18.055Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:23:19.775Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:23:19.798Z [INFO]: Server running on port 3000
+2025-03-10T15:23:19.802Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:23:21.747Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:23:21.757Z [INFO]: Server running on port 3000
+2025-03-10T15:23:21.758Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:23:24.157Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:23:24.173Z [INFO]: Server running on port 3000
+2025-03-10T15:23:24.173Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:23:26.640Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:24:04.547Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:24:04.556Z [INFO]: Server running on port 3000
+2025-03-10T15:24:04.557Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:24:08.875Z [WARN]: Existing transporter invalid, creating new one: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:24:08.876Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:24:08.877Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:24:14.801Z [ERROR]: SMTP connection check failed on startup: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:26:54.703Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:26:54.727Z [INFO]: Server running on port 3000
+2025-03-10T15:26:54.727Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:26:58.191Z [WARN]: Existing transporter invalid, creating new one: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:26:58.192Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:26:58.193Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:27:01.458Z [ERROR]: SMTP connection check failed on startup: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:27:10.813Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:27:10.825Z [INFO]: Server running on port 3000
+2025-03-10T15:27:10.825Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:27:14.433Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:27:14.448Z [INFO]: Server running on port 3000
+2025-03-10T15:27:14.450Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:27:16.171Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:27:16.187Z [INFO]: Server running on port 3000
+2025-03-10T15:27:16.188Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:27:19.535Z [WARN]: Existing transporter invalid, creating new one: connect ECONNREFUSED 198.23.53.39:587
+2025-03-10T15:27:19.535Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:27:19.536Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:27:22.715Z [ERROR]: SMTP connection check failed on startup: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:27:25.726Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:27:25.737Z [INFO]: Server running on port 3000
+2025-03-10T15:27:25.738Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:27:35.263Z [WARN]: Existing transporter invalid, creating new one: connect ETIMEDOUT 198.23.53.42:587
+2025-03-10T15:27:35.264Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:27:35.266Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:27:38.583Z [ERROR]: SMTP connection check failed on startup: connect ECONNREFUSED 198.23.53.39:587
+2025-03-10T15:28:20.517Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:28:20.530Z [INFO]: Server running on port 3000
+2025-03-10T15:28:20.531Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:28:21.968Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:28:21.983Z [INFO]: Server running on port 3000
+2025-03-10T15:28:21.984Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:28:24.439Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:28:24.446Z [INFO]: Configuration loaded successfully
+2025-03-10T15:28:24.472Z [INFO]: Server running on port 3000
+2025-03-10T15:28:24.474Z [INFO]: Using SMTP server: mail.exclusivehosting.net:587
+2025-03-10T15:28:24.475Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:28:24.476Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:28:27.850Z [WARN]: Existing transporter invalid, creating new one: connect ECONNREFUSED 198.23.53.39:587
+2025-03-10T15:28:27.851Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:28:27.851Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:28:31.362Z [ERROR]: SMTP connection check failed on startup: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:28:48.559Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:28:48.562Z [INFO]: Configuration loaded successfully
+2025-03-10T15:28:48.570Z [INFO]: Server running on port 3000
+2025-03-10T15:28:48.570Z [INFO]: Using SMTP server: mail.exclusivehosting.net:587
+2025-03-10T15:28:48.571Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:28:48.571Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:28:52.118Z [WARN]: Existing transporter invalid, creating new one: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:28:52.119Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:28:52.120Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:28:55.485Z [ERROR]: SMTP connection check failed on startup: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:30:17.372Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T15:30:17.383Z [INFO]: Configuration loaded successfully
+2025-03-10T15:30:17.396Z [INFO]: Server running on port 3000
+2025-03-10T15:30:17.397Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T15:30:17.398Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:30:17.399Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:30:20.304Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:30:20.305Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:30:20.306Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:30:21.550Z [ERROR]: SMTP connection check failed on startup: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:33:05.869Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:33:05.884Z [INFO]: Configuration loaded successfully
+2025-03-10T15:33:05.904Z [INFO]: Server running on port 3000
+2025-03-10T15:33:05.906Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:33:05.906Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:33:05.908Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:33:06.403Z [WARN]: Existing transporter invalid, creating new one: 300C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:33:06.404Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:33:06.405Z [INFO]: SMTP connection verified successfully
+2025-03-10T15:33:06.665Z [ERROR]: SMTP connection check failed on startup: 300C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:33:07.566Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:33:07.571Z [INFO]: Configuration loaded successfully
+2025-03-10T15:33:07.585Z [INFO]: Server running on port 3000
+2025-03-10T15:33:07.585Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:33:07.586Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:33:07.586Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:33:08.009Z [WARN]: Existing transporter invalid, creating new one: 94540000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:33:08.011Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:33:09.246Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:33:09.257Z [INFO]: Configuration loaded successfully
+2025-03-10T15:33:09.285Z [INFO]: Server running on port 3000
+2025-03-10T15:33:09.287Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:33:09.290Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:33:09.293Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:33:09.654Z [WARN]: Existing transporter invalid, creating new one: 68680000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:33:09.654Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:33:09.911Z [ERROR]: Failed to create email transporter: 68680000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:33:09.911Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:33:09.911Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:33:10.547Z [INFO]: SMTP connection succeeded with SSL/TLS
+2025-03-10T15:33:10.547Z [INFO]: Consider updating your configuration: SMTP_PORT=465, SMTP_SECURE=true
+2025-03-10T15:33:11.166Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:33:25.234Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:33:25.237Z [INFO]: Configuration loaded successfully
+2025-03-10T15:33:25.244Z [INFO]: Server running on port 3000
+2025-03-10T15:33:25.245Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:33:25.245Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:33:25.245Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:33:25.548Z [WARN]: Existing transporter invalid, creating new one: 441C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:33:25.549Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:33:25.816Z [ERROR]: Failed to create email transporter: 441C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:33:25.817Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:33:25.817Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:33:26.443Z [INFO]: SMTP connection succeeded with SSL/TLS
+2025-03-10T15:33:26.443Z [INFO]: Consider updating your configuration: SMTP_PORT=465, SMTP_SECURE=true
+2025-03-10T15:33:27.070Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:34:03.129Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:34:03.132Z [INFO]: Configuration loaded successfully
+2025-03-10T15:34:03.140Z [INFO]: Server running on port 3000
+2025-03-10T15:34:03.141Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:34:03.141Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:34:03.142Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:34:03.455Z [WARN]: Existing transporter invalid, creating new one: 6C580000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:34:03.456Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:34:03.704Z [ERROR]: Failed to create email transporter: 6C580000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:34:03.704Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:34:03.705Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:34:04.320Z [INFO]: SMTP connection succeeded with SSL/TLS
+2025-03-10T15:34:04.321Z [INFO]: Consider updating your configuration: SMTP_PORT=465, SMTP_SECURE=true
+2025-03-10T15:34:04.938Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:34:35.588Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T15:34:37.221Z [INFO]: Generated subject: You've Been Waited For! - OpenSea
+2025-03-10T15:35:01.785Z [INFO]: Generated email body (934 chars)
+2025-03-10T15:35:03.591Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741620901787-gmp64fk8
+2025-03-10T15:35:03.959Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T15:35:14.547Z [INFO]: Generated subject: You've Been Invited! - OpenSea NFT Marketplace Waitlist
+2025-03-10T15:35:18.467Z [INFO]: Generated email body (800 chars)
+2025-03-10T15:35:20.227Z [INFO]: Email sent to adamlorde8@gmail.com: msg-1741620918468-x56r0pvj
+2025-03-10T15:39:27.142Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:39:27.156Z [INFO]: Configuration loaded successfully
+2025-03-10T15:39:27.174Z [INFO]: Server running on port 3000
+2025-03-10T15:39:27.175Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:39:27.175Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:39:27.176Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:39:27.662Z [WARN]: Existing transporter invalid, creating new one: 08460000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:39:27.662Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:39:27.960Z [ERROR]: Failed to create email transporter: 08460000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:39:27.960Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:39:27.960Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:39:28.603Z [INFO]: SMTP connection succeeded with SSL/TLS
+2025-03-10T15:39:28.603Z [INFO]: Consider updating your configuration: SMTP_PORT=465, SMTP_SECURE=true
+2025-03-10T15:39:29.231Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:40:50.927Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:40:50.931Z [INFO]: Configuration loaded successfully
+2025-03-10T15:40:50.943Z [INFO]: Server running on port 3000
+2025-03-10T15:40:50.944Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:40:50.945Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:40:50.946Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:40:51.282Z [WARN]: Existing transporter invalid, creating new one: D4560000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:40:51.283Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:40:51.533Z [ERROR]: Failed to create email transporter: D4560000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:40:51.534Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:40:51.535Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:40:52.174Z [INFO]: SMTP connection succeeded with SSL/TLS
+2025-03-10T15:40:52.174Z [INFO]: Consider updating your configuration: SMTP_PORT=465, SMTP_SECURE=true
+2025-03-10T15:40:52.790Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:40:54.260Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:40:54.265Z [INFO]: Configuration loaded successfully
+2025-03-10T15:40:54.277Z [INFO]: Server running on port 3000
+2025-03-10T15:40:54.277Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:40:54.278Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:40:54.279Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:40:55.497Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:40:55.503Z [INFO]: Configuration loaded successfully
+2025-03-10T15:40:55.523Z [INFO]: Server running on port 3000
+2025-03-10T15:40:55.526Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:40:55.533Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:40:55.537Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:40:55.923Z [WARN]: Existing transporter invalid, creating new one: 841D0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:40:55.923Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:40:56.188Z [ERROR]: Failed to create email transporter: 841D0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:40:56.189Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:40:56.189Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:40:56.821Z [INFO]: SMTP connection succeeded with SSL/TLS
+2025-03-10T15:40:56.822Z [INFO]: Consider updating your configuration: SMTP_PORT=465, SMTP_SECURE=true
+2025-03-10T15:40:58.138Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:40:58.141Z [INFO]: Configuration loaded successfully
+2025-03-10T15:40:58.155Z [INFO]: Server running on port 3000
+2025-03-10T15:40:58.155Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:40:58.156Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:40:58.156Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:40:58.481Z [WARN]: Existing transporter invalid, creating new one: 80220000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:40:58.483Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:40:58.727Z [ERROR]: Failed to create email transporter: 80220000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:40:58.729Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:40:58.729Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:40:59.712Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:40:59.718Z [INFO]: Configuration loaded successfully
+2025-03-10T15:40:59.731Z [INFO]: Server running on port 3000
+2025-03-10T15:40:59.732Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:40:59.732Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:40:59.734Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:41:00.058Z [WARN]: Existing transporter invalid, creating new one: 6C600000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:41:00.058Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:41:00.322Z [ERROR]: Failed to create email transporter: 6C600000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:41:00.322Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:41:00.323Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:41:01.178Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:41:01.184Z [INFO]: Configuration loaded successfully
+2025-03-10T15:41:01.194Z [INFO]: Server running on port 3000
+2025-03-10T15:41:01.195Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:41:01.195Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:41:01.196Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:41:01.542Z [WARN]: Existing transporter invalid, creating new one: 34450000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:41:01.542Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:41:01.801Z [ERROR]: Failed to create email transporter: 34450000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:41:01.801Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:41:01.802Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:41:02.417Z [INFO]: SMTP connection succeeded with SSL/TLS
+2025-03-10T15:41:02.417Z [INFO]: Consider updating your configuration: SMTP_PORT=465, SMTP_SECURE=true
+2025-03-10T15:41:03.085Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:41:04.101Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:41:04.106Z [INFO]: Configuration loaded successfully
+2025-03-10T15:41:04.121Z [INFO]: Server running on port 3000
+2025-03-10T15:41:04.122Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:41:04.122Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:41:04.123Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:41:04.480Z [WARN]: Existing transporter invalid, creating new one: 344B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:41:04.481Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:41:04.746Z [ERROR]: Failed to create email transporter: 344B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:41:04.747Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:41:04.747Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:41:05.389Z [INFO]: SMTP connection succeeded with SSL/TLS
+2025-03-10T15:41:05.390Z [INFO]: Consider updating your configuration: SMTP_PORT=465, SMTP_SECURE=true
+2025-03-10T15:41:06.019Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:41:20.724Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:587
+2025-03-10T15:41:20.726Z [INFO]: Configuration loaded successfully
+2025-03-10T15:41:20.734Z [INFO]: Server running on port 3000
+2025-03-10T15:41:20.734Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:587
+2025-03-10T15:41:20.735Z [INFO]: Sender email: noreply@emirates-deliveries.com
+2025-03-10T15:41:20.735Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:41:21.035Z [WARN]: Existing transporter invalid, creating new one: 7C410000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:41:21.036Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:41:21.293Z [ERROR]: Failed to create email transporter: 7C410000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:41:21.294Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:41:21.294Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:41:21.938Z [INFO]: SMTP connection succeeded with SSL/TLS
+2025-03-10T15:41:21.939Z [INFO]: Consider updating your configuration: SMTP_PORT=465, SMTP_SECURE=true
+2025-03-10T15:41:22.777Z [INFO]: SMTP connection successful on startup
+2025-03-10T15:41:54.394Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T15:42:01.117Z [INFO]: Generated subject: You've Been Invited to Join Our Exclusive NFT Club!
+2025-03-10T15:42:10.606Z [INFO]: Generated email body (1299 chars)
+2025-03-10T15:42:12.408Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741621330608-48ftvyht
+2025-03-10T15:42:12.844Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T15:42:16.274Z [INFO]: Generated subject: You've Been Invited! - NFT Marketplace at OpenSea
+2025-03-10T15:42:25.120Z [INFO]: Generated email body (1389 chars)
+2025-03-10T15:42:27.031Z [INFO]: Email sent to adamlorde8@gmail.com: msg-1741621345121-ctsqpxb5
+2025-03-10T15:54:05.067Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T15:54:06.864Z [INFO]: Generated subject: Congratulations! You've Been Invited to Join the Exclusive Xyakuzapro NFT Club on OpenSea.
+2025-03-10T15:54:17.892Z [INFO]: Generated email body (1295 chars)
+2025-03-10T15:54:18.730Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T15:54:18.731Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:54:18.991Z [ERROR]: Failed to create email transporter: 7C410000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:54:18.991Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:54:18.992Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:54:19.622Z [INFO]: Trying STARTTLS: smtp1.s.ipzmarketing.com:587 (secure: false)
+2025-03-10T15:54:20.526Z [INFO]: Trying Plain: smtp1.s.ipzmarketing.com:25 (secure: false)
+2025-03-10T15:54:40.532Z [INFO]: Trying Alternate: smtp1.s.ipzmarketing.com:2525 (secure: false)
+2025-03-10T15:55:00.548Z [ERROR]: Error sending email to xyakuzapro@gmail.com: Could not establish SMTP connection after trying multiple configurations: 7C410000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:55:01.460Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T15:55:03.400Z [INFO]: Generated subject: You've Been Invited to Join our Exclusive NFT Club! - OpenSea
+2025-03-10T15:55:08.945Z [INFO]: Generated email body (1111 chars)
+2025-03-10T15:55:19.013Z [WARN]: Existing transporter invalid, creating new one: SMTP verification timeout
+2025-03-10T15:55:19.014Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:587 (secure: true)
+2025-03-10T15:55:19.278Z [ERROR]: Failed to create email transporter: 7C410000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2025-03-10T15:55:19.278Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:55:19.278Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T15:55:19.924Z [INFO]: Trying STARTTLS: smtp1.s.ipzmarketing.com:587 (secure: false)
+2025-03-10T15:55:20.821Z [INFO]: Trying Plain: smtp1.s.ipzmarketing.com:25 (secure: false)
+2025-03-10T15:55:25.361Z [INFO]: SMTP transport created for mail.exclusivehosting.net:587
+2025-03-10T15:55:25.365Z [INFO]: Configuration loaded successfully
+2025-03-10T15:55:25.377Z [INFO]: Server running on port 3000
+2025-03-10T15:55:25.377Z [INFO]: Using SMTP server: mail.exclusivehosting.net:587
+2025-03-10T15:55:25.378Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T15:55:25.378Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:55:28.763Z [WARN]: Existing transporter invalid, creating new one: connect ECONNREFUSED 198.23.53.39:587
+2025-03-10T15:55:28.764Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:587 (secure: true)
+2025-03-10T15:55:32.006Z [ERROR]: Failed to create email transporter: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:55:32.007Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:55:32.007Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:55:34.671Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:55:36.859Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T15:55:37.918Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T15:55:39.687Z [INFO]: Generated subject: Check out our exclusive OpenSea NFT Collection!
+2025-03-10T15:55:49.741Z [INFO]: Generated email body (1681 chars)
+2025-03-10T15:55:57.921Z [INFO]: Trying Alternate: mail.exclusivehosting.net:2525 (secure: false)
+2025-03-10T15:55:59.725Z [ERROR]: SMTP connection check failed on startup: Could not establish SMTP connection after trying multiple configurations: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:55:59.784Z [WARN]: Existing transporter invalid, creating new one: SMTP verification timeout
+2025-03-10T15:55:59.784Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:587 (secure: true)
+2025-03-10T15:56:03.102Z [ERROR]: Failed to create email transporter: connect ECONNREFUSED 198.23.53.42:587
+2025-03-10T15:56:03.103Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:56:03.103Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:56:04.451Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:56:07.847Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T15:56:24.753Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T15:56:24.756Z [INFO]: Configuration loaded successfully
+2025-03-10T15:56:24.766Z [INFO]: Server running on port 3000
+2025-03-10T15:56:24.766Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T15:56:24.767Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T15:56:24.767Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:56:26.032Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:56:26.033Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:56:27.258Z [ERROR]: Failed to create email transporter: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:56:27.259Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:56:27.259Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:56:28.591Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:56:31.640Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T15:56:32.236Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T15:56:33.041Z [INFO]: Generated subject: Congratulations! You've Been Invited to OpenSea's Exclusive NFT Marketplace.
+2025-03-10T15:56:45.329Z [INFO]: Generated email body (1346 chars)
+2025-03-10T15:56:51.644Z [INFO]: Trying Alternate: mail.exclusivehosting.net:2525 (secure: false)
+2025-03-10T15:56:53.397Z [ERROR]: SMTP connection check failed on startup: Could not establish SMTP connection after trying multiple configurations: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:56:55.364Z [WARN]: Existing transporter invalid, creating new one: SMTP verification timeout
+2025-03-10T15:56:55.364Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:56:56.419Z [ERROR]: Failed to create email transporter: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:56:56.420Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:56:56.420Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:56:57.674Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:57:00.945Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T15:57:20.951Z [INFO]: Trying Alternate: mail.exclusivehosting.net:2525 (secure: false)
+2025-03-10T15:57:22.709Z [ERROR]: Error sending email to xyakuzapro@gmail.com: Could not establish SMTP connection after trying multiple configurations: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:57:22.949Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T15:57:24.021Z [INFO]: Generated subject: You've Been Invited to the Exclusive OpenSea NFT Waitlist! Claim Your Spot Now!
+2025-03-10T15:57:31.030Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T15:57:31.038Z [INFO]: Configuration loaded successfully
+2025-03-10T15:57:31.066Z [INFO]: Server running on port 3000
+2025-03-10T15:57:31.069Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T15:57:31.069Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T15:57:31.070Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:57:32.448Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:57:32.449Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:57:33.776Z [ERROR]: Failed to create email transporter: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:57:33.776Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:57:33.776Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:57:35.066Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:57:38.318Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T15:57:47.898Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T15:57:47.901Z [INFO]: Configuration loaded successfully
+2025-03-10T15:57:47.909Z [INFO]: Server running on port 3000
+2025-03-10T15:57:47.909Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T15:57:47.909Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T15:57:47.910Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T15:57:49.196Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:57:49.196Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:57:50.527Z [ERROR]: Failed to create email transporter: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:57:50.527Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:57:50.528Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:57:51.756Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:57:55.056Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T15:57:57.789Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T15:57:58.991Z [INFO]: Generated subject: You've Been Invited to Join Our Exclusive NFT Club on OpenSea!
+2025-03-10T15:58:15.069Z [INFO]: Trying Alternate: mail.exclusivehosting.net:2525 (secure: false)
+2025-03-10T15:58:16.178Z [INFO]: Generated email body (1260 chars)
+2025-03-10T15:58:16.976Z [ERROR]: SMTP connection check failed on startup: Could not establish SMTP connection after trying multiple configurations: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:58:18.119Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:58:18.119Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:58:19.444Z [ERROR]: Failed to create email transporter: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:58:19.444Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:58:19.445Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:58:20.664Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:58:23.952Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T15:58:43.963Z [INFO]: Trying Alternate: mail.exclusivehosting.net:2525 (secure: false)
+2025-03-10T15:58:45.664Z [ERROR]: Error sending email to xyakuzapro@gmail.com: Could not establish SMTP connection after trying multiple configurations: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:58:46.091Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T15:58:49.676Z [INFO]: Generated subject: Congratulations! You've Been Invited to OpenSea's Exclusive NFT Marketplace.
+2025-03-10T15:59:19.690Z [ERROR]: Cohere AI content generation error: timeout of 30000ms exceeded
+2025-03-10T15:59:19.690Z [INFO]: Generated email body (343 chars)
+2025-03-10T15:59:21.514Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:59:21.514Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:59:22.735Z [ERROR]: Failed to create email transporter: Invalid login: 535 Incorrect authentication data
+2025-03-10T15:59:22.736Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T15:59:22.736Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T15:59:23.965Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T15:59:27.196Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T15:59:47.206Z [INFO]: Trying Alternate: mail.exclusivehosting.net:2525 (secure: false)
+2025-03-10T15:59:48.955Z [ERROR]: Error sending email to adamlorde8@gmail.com: Could not establish SMTP connection after trying multiple configurations: Invalid login: 535 Incorrect authentication data
+2025-03-10T16:00:53.852Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T16:00:53.862Z [INFO]: Configuration loaded successfully
+2025-03-10T16:00:53.871Z [INFO]: Server running on port 3000
+2025-03-10T16:00:53.872Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:00:53.872Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T16:00:53.872Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:00:55.276Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T16:00:55.277Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T16:00:56.504Z [ERROR]: Failed to create email transporter: Invalid login: 535 Incorrect authentication data
+2025-03-10T16:00:56.505Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T16:00:56.505Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T16:00:57.776Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T16:01:01.084Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T16:01:21.094Z [INFO]: Trying Alternate: mail.exclusivehosting.net:2525 (secure: false)
+2025-03-10T16:01:22.868Z [ERROR]: SMTP connection check failed on startup: Could not establish SMTP connection after trying multiple configurations: Invalid login: 535 Incorrect authentication data
+2025-03-10T16:01:33.390Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T16:01:33.396Z [INFO]: Configuration loaded successfully
+2025-03-10T16:01:33.408Z [INFO]: Server running on port 3000
+2025-03-10T16:01:33.408Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:01:33.409Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T16:01:33.409Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:01:34.763Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T16:01:34.763Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T16:01:36.019Z [ERROR]: Failed to create email transporter: Invalid login: 535 Incorrect authentication data
+2025-03-10T16:01:36.019Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T16:01:36.020Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T16:01:37.289Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T16:01:40.532Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T16:02:00.541Z [INFO]: Trying Alternate: mail.exclusivehosting.net:2525 (secure: false)
+2025-03-10T16:02:02.446Z [ERROR]: SMTP connection check failed on startup: Could not establish SMTP connection after trying multiple configurations: Invalid login: 535 Incorrect authentication data
+2025-03-10T16:09:08.273Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T16:09:08.286Z [INFO]: Configuration loaded successfully
+2025-03-10T16:09:08.302Z [INFO]: Server running on port 3000
+2025-03-10T16:09:08.303Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:09:08.303Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T16:09:08.304Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:09:11.345Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 Incorrect authentication data
+2025-03-10T16:09:11.345Z [INFO]: Creating SMTP transporter for mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T16:09:12.537Z [ERROR]: Failed to create email transporter: Invalid login: 535 Incorrect authentication data
+2025-03-10T16:09:12.538Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T16:09:12.538Z [INFO]: Trying SSL/TLS: mail.exclusivehosting.net:465 (secure: true)
+2025-03-10T16:09:13.551Z [INFO]: Trying STARTTLS: mail.exclusivehosting.net:587 (secure: false)
+2025-03-10T16:09:16.804Z [INFO]: Trying Plain: mail.exclusivehosting.net:25 (secure: false)
+2025-03-10T16:09:22.344Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:465
+2025-03-10T16:09:22.347Z [INFO]: Configuration loaded successfully
+2025-03-10T16:09:22.354Z [INFO]: Server running on port 3000
+2025-03-10T16:09:22.354Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:465
+2025-03-10T16:09:22.354Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T16:09:22.355Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:09:23.286Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:09:23.287Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T16:09:23.920Z [ERROR]: Failed to create email transporter: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:09:23.920Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T16:09:23.921Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T16:09:24.567Z [INFO]: Trying STARTTLS: smtp1.s.ipzmarketing.com:587 (secure: false)
+2025-03-10T16:09:27.167Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:465
+2025-03-10T16:09:27.172Z [INFO]: Configuration loaded successfully
+2025-03-10T16:09:27.183Z [INFO]: Server running on port 3000
+2025-03-10T16:09:27.183Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:465
+2025-03-10T16:09:27.183Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T16:09:27.184Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:09:27.890Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:09:27.891Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T16:09:28.536Z [ERROR]: Failed to create email transporter: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:09:28.537Z [INFO]: Auto-fallback enabled. Trying alternative SMTP configurations...
+2025-03-10T16:09:28.537Z [INFO]: Trying SSL/TLS: smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T16:09:29.150Z [INFO]: Trying STARTTLS: smtp1.s.ipzmarketing.com:587 (secure: false)
+2025-03-10T16:09:30.011Z [INFO]: Trying Plain: smtp1.s.ipzmarketing.com:25 (secure: false)
+2025-03-10T16:09:36.234Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:465
+2025-03-10T16:09:36.237Z [INFO]: Configuration loaded successfully
+2025-03-10T16:09:36.246Z [INFO]: Server running on port 3000
+2025-03-10T16:09:36.246Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:465
+2025-03-10T16:09:36.246Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T16:09:36.247Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:09:36.907Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:09:36.908Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T16:09:37.594Z [ERROR]: Failed to create email transporter: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:09:37.594Z [ERROR]: Authentication failed - please check SMTP username and password
+2025-03-10T16:09:37.595Z [INFO]: Run scripts/smtp-auth-fix.js to troubleshoot authentication issues
+2025-03-10T16:09:37.595Z [ERROR]: SMTP connection check failed on startup: SMTP authentication failed: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:09:57.386Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:465
+2025-03-10T16:09:57.389Z [INFO]: Configuration loaded successfully
+2025-03-10T16:09:57.398Z [INFO]: Server running on port 3000
+2025-03-10T16:09:57.398Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:465
+2025-03-10T16:09:57.399Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T16:09:57.399Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:09:58.117Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:09:58.118Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T16:09:58.737Z [ERROR]: Failed to create email transporter: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:09:58.737Z [ERROR]: Authentication failed - please check SMTP username and password
+2025-03-10T16:09:58.738Z [INFO]: Run scripts/smtp-auth-fix.js to troubleshoot authentication issues
+2025-03-10T16:09:58.738Z [ERROR]: SMTP connection check failed on startup: SMTP authentication failed: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:11:40.828Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:465
+2025-03-10T16:11:40.842Z [INFO]: Configuration loaded successfully
+2025-03-10T16:11:40.856Z [INFO]: Server running on port 3000
+2025-03-10T16:11:40.858Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:465
+2025-03-10T16:11:40.859Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T16:11:40.860Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:11:41.613Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:11:41.619Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T16:11:42.284Z [ERROR]: Failed to create email transporter: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:11:42.285Z [ERROR]: Authentication failed - please check SMTP username and password
+2025-03-10T16:11:42.285Z [INFO]: Run scripts/smtp-auth-fix.js to troubleshoot authentication issues
+2025-03-10T16:11:42.286Z [ERROR]: SMTP connection check failed on startup: SMTP authentication failed: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:16:16.280Z [INFO]: SMTP transport created for smtp1.s.ipzmarketing.com:465
+2025-03-10T16:16:16.293Z [INFO]: Configuration loaded successfully
+2025-03-10T16:16:16.309Z [INFO]: Server running on port 3000
+2025-03-10T16:16:16.309Z [INFO]: Using SMTP server: smtp1.s.ipzmarketing.com:465
+2025-03-10T16:16:16.310Z [INFO]: Sender email: noreply@squarespace-panel.com
+2025-03-10T16:16:16.311Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:16:17.065Z [WARN]: Existing transporter invalid, creating new one: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:16:17.065Z [INFO]: Creating SMTP transporter for smtp1.s.ipzmarketing.com:465 (secure: true)
+2025-03-10T16:16:17.741Z [ERROR]: Failed to create email transporter: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:16:17.742Z [ERROR]: Authentication failed - please check SMTP username and password
+2025-03-10T16:16:17.743Z [INFO]: Run scripts/smtp-auth-fix.js to troubleshoot authentication issues
+2025-03-10T16:16:17.743Z [ERROR]: SMTP connection check failed on startup: SMTP authentication failed: Invalid login: 535 [E2] Your account is not active.
+2025-03-10T16:16:20.332Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T16:16:20.342Z [INFO]: Configuration loaded successfully
+2025-03-10T16:16:20.362Z [INFO]: Server running on port 3000
+2025-03-10T16:16:20.363Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:16:20.364Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:16:20.369Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:16:25.852Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T16:16:25.858Z [INFO]: Configuration loaded successfully
+2025-03-10T16:16:25.872Z [INFO]: Server running on port 3000
+2025-03-10T16:16:25.873Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:16:25.874Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:16:25.875Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:16:28.484Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:17:57.508Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T16:17:57.525Z [INFO]: Configuration loaded successfully
+2025-03-10T16:17:57.543Z [INFO]: Server running on port 3000
+2025-03-10T16:17:57.544Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:17:57.544Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:17:57.545Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:18:00.259Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:22:24.748Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T16:22:24.763Z [INFO]: Configuration loaded successfully
+2025-03-10T16:22:24.782Z [INFO]: Server running on port 3000
+2025-03-10T16:22:24.783Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:22:24.783Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:22:24.784Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:22:29.014Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:22:33.537Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T16:22:33.545Z [INFO]: Configuration loaded successfully
+2025-03-10T16:22:33.562Z [INFO]: Server running on port 3000
+2025-03-10T16:22:33.563Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:22:33.563Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:22:33.564Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:22:36.480Z [INFO]: SMTP transport created for mail.exclusivehosting.net:465
+2025-03-10T16:22:36.491Z [INFO]: Configuration loaded successfully
+2025-03-10T16:22:36.518Z [INFO]: Server running on port 3000
+2025-03-10T16:22:36.520Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:22:36.521Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:22:36.522Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:33:02.311Z [INFO]: Using Bright Data formatted username: brd-customer-hl_c86a3063-zone-residential_proxy1-session-2545-country-us
+2025-03-10T16:33:02.315Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:33:02.321Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:33:02.322Z [INFO]: Configuration loaded successfully
+2025-03-10T16:33:02.332Z [INFO]: Server running on port 3000
+2025-03-10T16:33:02.333Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:33:02.333Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:33:02.334Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:33:06.499Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:33:31.438Z [INFO]: Using Bright Data formatted username: brd-customer-hl_c86a3063-zone-residential_proxy1-session-275592-country-us
+2025-03-10T16:33:31.442Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:33:31.449Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:33:31.451Z [INFO]: Configuration loaded successfully
+2025-03-10T16:33:31.459Z [INFO]: Server running on port 3000
+2025-03-10T16:33:31.460Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:33:31.460Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:33:31.461Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:33:34.044Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:39:58.269Z [INFO]: Using Bright Data formatted username: brd-customer-hl_c86a3063-zone-residential_proxy1-session-504303-country-us
+2025-03-10T16:39:58.287Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:39:58.301Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:39:58.303Z [INFO]: Configuration loaded successfully
+2025-03-10T16:39:58.321Z [INFO]: Server running on port 3000
+2025-03-10T16:39:58.321Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:39:58.322Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:39:58.323Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:40:02.995Z [INFO]: Using Bright Data formatted username: brd-customer-hl_c86a3063-zone-residential_proxy1-session-746589-country-us
+2025-03-10T16:40:03.005Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:40:03.023Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:40:03.025Z [INFO]: Configuration loaded successfully
+2025-03-10T16:40:03.048Z [INFO]: Server running on port 3000
+2025-03-10T16:40:03.050Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:40:03.052Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:40:03.057Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:40:06.233Z [INFO]: Using Bright Data formatted username: brd-customer-hl_c86a3063-zone-residential_proxy1-country-us-session-754945
+2025-03-10T16:40:06.238Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:40:06.248Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:40:06.250Z [INFO]: Configuration loaded successfully
+2025-03-10T16:40:06.266Z [INFO]: Server running on port 3000
+2025-03-10T16:40:06.267Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:40:06.267Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:40:06.268Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:40:08.963Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:40:10.389Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-10T16:40:10.396Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:40:10.409Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:40:10.411Z [INFO]: Configuration loaded successfully
+2025-03-10T16:40:10.426Z [INFO]: Server running on port 3000
+2025-03-10T16:40:10.427Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:40:10.428Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:40:10.430Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:40:12.818Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:44:09.190Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T16:44:11.184Z [INFO]: Generated subject: Wow! Don't miss your exclusive invite to the NFT marketplace!
+2025-03-10T16:44:18.070Z [INFO]: Generated email body (1248 chars)
+2025-03-10T16:44:22.287Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741625058079-qj6wla7y
+2025-03-10T16:44:22.764Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T16:44:23.527Z [INFO]: Generated subject: Wow! You've Been Invited to Join the Exclusive NFT Waitlist!
+2025-03-10T16:44:30.846Z [INFO]: Generated email body (1240 chars)
+2025-03-10T16:44:34.271Z [INFO]: Email sent to adamlorde8@gmail.com: msg-1741625070849-lxm4j3z3
+2025-03-10T16:44:40.188Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-10T16:44:40.194Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:44:40.204Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:44:40.205Z [INFO]: Configuration loaded successfully
+2025-03-10T16:44:40.218Z [INFO]: Server running on port 3000
+2025-03-10T16:44:40.219Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:44:40.219Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:44:40.220Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:44:42.892Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:44:49.288Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-10T16:44:49.294Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:44:49.301Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:44:49.303Z [INFO]: Configuration loaded successfully
+2025-03-10T16:44:49.315Z [INFO]: Server running on port 3000
+2025-03-10T16:44:49.316Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:44:49.316Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:44:49.317Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:44:51.709Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:45:04.312Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T16:45:05.793Z [INFO]: Generated subject: Congratulations! You've Been Invited to Join Our Exclusive NFT Waitlist <name>
+2025-03-10T16:45:09.965Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-10T16:45:09.969Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:45:09.976Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:45:09.977Z [INFO]: Configuration loaded successfully
+2025-03-10T16:45:09.988Z [INFO]: Server running on port 3000
+2025-03-10T16:45:09.988Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:45:09.989Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:45:09.989Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:45:12.600Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:45:26.780Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-10T16:45:26.783Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:45:26.790Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:45:26.791Z [INFO]: Configuration loaded successfully
+2025-03-10T16:45:26.799Z [INFO]: Server running on port 3000
+2025-03-10T16:45:26.800Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:45:26.800Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:45:26.801Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:45:29.373Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:45:45.406Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-10T16:45:45.410Z [INFO]: Created new HTTP proxy agent
+2025-03-10T16:45:45.417Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-10T16:45:45.419Z [INFO]: Configuration loaded successfully
+2025-03-10T16:45:45.433Z [INFO]: Server running on port 3000
+2025-03-10T16:45:45.434Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-10T16:45:45.434Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-10T16:45:45.435Z [INFO]: Cohere AI module loaded successfully
+2025-03-10T16:45:48.010Z [INFO]: SMTP connection successful on startup
+2025-03-10T16:46:04.859Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-10T16:46:09.194Z [INFO]: Generated subject: Congratulations! You've Been Invited to OpenSea's Exclusive Xyakuzapro NFT Marketplace Waitlist!
+2025-03-10T16:46:15.639Z [INFO]: Generated email body (1119 chars)
+2025-03-10T16:46:21.174Z [INFO]: Email sent to xyakuzapro@gmail.com: msg-1741625175643-4z8s75d8
+2025-03-10T16:46:21.820Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-10T16:46:27.408Z [INFO]: Generated subject: Congratulations! You've Been Invited to Join the Exclusive NFT Waitlist on OpenSea. Stay Ahead!
+2025-03-10T16:46:36.785Z [INFO]: Generated email body (1318 chars)
+2025-03-10T16:46:40.632Z [INFO]: Email sent to adamlorde8@gmail.com: msg-1741625196786-5jtu3xpj
+2025-03-11T10:37:07.427Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-11T10:37:07.430Z [INFO]: Created new HTTP proxy agent
+2025-03-11T10:37:07.435Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-11T10:37:07.436Z [INFO]: Configuration loaded successfully
+2025-03-11T10:37:07.443Z [INFO]: Server running on port 3000
+2025-03-11T10:37:07.443Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-11T10:37:07.443Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-11T10:37:07.444Z [INFO]: Cohere AI module loaded successfully
+2025-03-11T10:37:11.615Z [INFO]: SMTP connection successful on startup
+2025-03-11T10:37:40.304Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-11T10:38:10.321Z [ERROR]: Cohere AI content generation error: timeout of 30000ms exceeded
+2025-03-11T10:38:10.322Z [INFO]: Generated subject: Thank you for your interest. We look forward to sharing more information soon.
+2025-03-11T10:38:40.335Z [ERROR]: Cohere AI content generation error: timeout of 30000ms exceeded
+2025-03-11T10:38:40.335Z [INFO]: Generated email body (191 chars)
+2025-03-11T10:38:45.579Z [INFO]: Email sent to xyakuzapro@gmail.com: <1741689520336.xoihl20o@squarespace-panel.pp.ua>
+2025-03-11T10:38:46.218Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-11T10:38:50.153Z [INFO]: Generated subject: ⏳ Act Now! 🔥 Exclusive OpenSea Early Access 🎟️
+2025-03-11T10:38:59.244Z [INFO]: Generated email body (1253 chars)
+2025-03-11T10:39:03.081Z [INFO]: Email sent to adamlorde8@gmail.com: <1741689539245.7l4ickbh@squarespace-panel.pp.ua>
+2025-03-11T11:54:51.888Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-11T11:54:53.738Z [INFO]: Generated subject: ⏰⚠️ Alert! 🎉 OpenSea NFT Drop ≠ Evitable ⚡️🚀
+2025-03-11T11:55:03.287Z [INFO]: Generated email body (1256 chars)
+2025-03-11T11:55:08.888Z [INFO]: Email sent to xyakuzapro@gmail.com: <1741694103287.xb1jant7@squarespace-panel.pp.ua>
+2025-03-11T11:55:09.253Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-11T11:55:10.832Z [INFO]: Generated subject: 💫𝗨𝗽𝗽𝗹𝗶𝗻 𝗗𝗼𝗽 𝗥𝗮𝗱�
+2025-03-11T11:55:21.164Z [INFO]: Generated email body (1476 chars)
+2025-03-11T11:55:25.833Z [INFO]: Email sent to adamlorde8@gmail.com: <1741694121164.06j6q60u@squarespace-panel.pp.ua>
+2025-03-11T11:56:30.810Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-11T11:56:30.814Z [INFO]: Created new HTTP proxy agent
+2025-03-11T11:56:30.822Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-11T11:56:30.823Z [INFO]: Configuration loaded successfully
+2025-03-11T11:56:30.833Z [INFO]: Server running on port 3000
+2025-03-11T11:56:30.834Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-11T11:56:30.835Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-11T11:56:30.835Z [INFO]: Cohere AI module loaded successfully
+2025-03-11T11:56:33.870Z [INFO]: SMTP connection successful on startup
+2025-03-11T12:12:31.027Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-11T12:12:31.038Z [INFO]: Created new HTTP proxy agent
+2025-03-11T12:12:31.047Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-11T12:12:31.048Z [INFO]: Configuration loaded successfully
+2025-03-11T12:12:31.057Z [INFO]: Server running on port 3000
+2025-03-11T12:12:31.058Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-11T12:12:31.058Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-11T12:12:31.058Z [INFO]: Cohere AI module loaded successfully
+2025-03-11T12:12:35.214Z [INFO]: SMTP connection successful on startup
+2025-03-11T12:13:15.549Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-11T12:13:15.554Z [INFO]: Created new HTTP proxy agent
+2025-03-11T12:13:15.565Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-11T12:13:15.566Z [INFO]: Configuration loaded successfully
+2025-03-11T12:13:15.580Z [INFO]: Server running on port 3000
+2025-03-11T12:13:15.581Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-11T12:13:15.581Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-11T12:13:15.582Z [INFO]: Cohere AI module loaded successfully
+2025-03-11T12:13:18.335Z [INFO]: SMTP connection successful on startup
+2025-03-11T12:13:46.015Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-11T12:13:46.019Z [INFO]: Created new HTTP proxy agent
+2025-03-11T12:13:46.029Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-11T12:13:46.030Z [INFO]: Configuration loaded successfully
+2025-03-11T12:13:46.041Z [INFO]: Server running on port 3000
+2025-03-11T12:13:46.041Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-11T12:13:46.042Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-11T12:13:46.042Z [INFO]: Cohere AI module loaded successfully
+2025-03-11T12:13:48.199Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-11T12:13:48.204Z [INFO]: Created new HTTP proxy agent
+2025-03-11T12:13:48.216Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-11T12:13:48.218Z [INFO]: Configuration loaded successfully
+2025-03-11T12:13:48.235Z [INFO]: Server running on port 3000
+2025-03-11T12:13:48.244Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-11T12:13:48.261Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-11T12:13:48.263Z [INFO]: Cohere AI module loaded successfully
+2025-03-11T12:13:50.080Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-11T12:13:50.085Z [INFO]: Created new HTTP proxy agent
+2025-03-11T12:13:50.095Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-11T12:13:50.097Z [INFO]: Configuration loaded successfully
+2025-03-11T12:13:50.113Z [INFO]: Server running on port 3000
+2025-03-11T12:13:50.117Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-11T12:13:50.124Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-11T12:13:50.128Z [INFO]: Cohere AI module loaded successfully
+2025-03-11T12:13:52.544Z [INFO]: SMTP connection successful on startup
+2025-03-11T12:14:08.339Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-11T12:14:08.343Z [INFO]: Created new HTTP proxy agent
+2025-03-11T12:14:08.349Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-11T12:14:08.350Z [INFO]: Configuration loaded successfully
+2025-03-11T12:14:08.361Z [INFO]: Server running on port 3000
+2025-03-11T12:14:08.362Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-11T12:14:08.363Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-11T12:14:08.363Z [INFO]: Cohere AI module loaded successfully
+2025-03-11T12:14:10.892Z [INFO]: SMTP connection successful on startup
+2025-03-11T12:14:27.201Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-11T12:14:28.754Z [INFO]: Generated subject: 🔥 You've Been Selected for 📦️✨ Exclusive Access to OpenSea's New NFT Drop! 🎟️
+2025-03-11T12:14:37.942Z [INFO]: Generated email body (1327 chars)
+2025-03-11T12:14:42.055Z [INFO]: Email sent to xyakuzapro@gmail.com: <1741695277942.t9kvspn1@squarespace-panel.pp.ua>
+2025-03-11T12:14:42.646Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-11T12:14:44.145Z [INFO]: Generated subject: 🔥Join the NFT Revolution!🔥 Exclusive OpenSea Early Access 🎟️
+2025-03-11T12:14:51.749Z [INFO]: Generated email body (1039 chars)
+2025-03-11T12:14:56.283Z [INFO]: Email sent to adamlorde8@gmail.com: <1741695291749.oi9pauat@squarespace-panel.pp.ua>
+2025-03-12T23:32:32.618Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-12T23:32:32.620Z [INFO]: Created new HTTP proxy agent
+2025-03-12T23:32:32.625Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-12T23:32:32.626Z [INFO]: Configuration loaded successfully
+2025-03-12T23:32:32.634Z [INFO]: Server running on port 3000
+2025-03-12T23:32:32.634Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-12T23:32:32.635Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-12T23:32:32.635Z [INFO]: Cohere AI module loaded successfully
+2025-03-12T23:32:39.110Z [INFO]: SMTP connection successful on startup
+2025-03-12T23:33:09.287Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-12T23:33:18.478Z [INFO]: Generated subject: ⏰ Exclusive NFT Drop | 👀 Early Access 👉 ✉️
+2025-03-12T23:33:29.528Z [INFO]: Generated email body (1565 chars)
+2025-03-12T23:33:29.556Z [ERROR]: Error processing email: config is not defined
+2025-03-12T23:33:34.132Z [INFO]: Email sent to xyakuzapro@gmail.com: <1741822409531.0kgmpzfs@squarespace-panel.pp.ua>
+2025-03-12T23:33:34.719Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-12T23:33:38.255Z [INFO]: Generated subject: 🔥Join the Exclusive NFT Revolution on OpenSea! 🔥
+2025-03-12T23:33:49.357Z [INFO]: Generated email body (1132 chars)
+2025-03-12T23:33:49.368Z [ERROR]: Error processing email: config is not defined
+2025-03-12T23:33:53.864Z [INFO]: Email sent to adamlorde8@gmail.com: <1741822429358.uom3ci8h@squarespace-panel.pp.ua>
+2025-03-12T23:56:20.767Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-12T23:56:22.404Z [INFO]: Generated subject: ⏳ Exclusive NFT Drop | Early Access 🔑
+2025-03-12T23:56:30.685Z [INFO]: Generated email body (1148 chars)
+2025-03-12T23:56:30.716Z [ERROR]: Error processing email: config is not defined
+2025-03-12T23:56:37.236Z [INFO]: Email sent to xyakuzapro@gmail.com: <1741823790688.mw8mubvp@squarespace-panel.pp.ua>
+2025-03-12T23:56:37.709Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-12T23:56:39.167Z [INFO]: Generated subject: 🔥 Yes, you 👉 "EARLY ACCESS ALERT: Restricted NFT Drop Registration 💥" 🏃♂️
+2025-03-12T23:56:49.324Z [INFO]: Generated email body (1410 chars)
+2025-03-12T23:56:49.332Z [ERROR]: Error processing email: config is not defined
+2025-03-12T23:56:53.612Z [INFO]: Email sent to adamlorde8@gmail.com: <1741823809324.gkt60k5n@squarespace-panel.pp.ua>
+2025-03-13T00:49:29.866Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-13T00:49:29.880Z [INFO]: Created new HTTP proxy agent
+2025-03-13T00:49:29.890Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-13T00:49:29.891Z [INFO]: Configuration loaded successfully
+2025-03-13T00:49:29.905Z [INFO]: Server running on port 3000
+2025-03-13T00:49:29.905Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-13T00:49:29.906Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-13T00:49:29.907Z [INFO]: Cohere AI module loaded successfully
+2025-03-13T00:49:35.050Z [INFO]: SMTP connection successful on startup
+2025-03-13T00:49:47.847Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-13T00:49:49.645Z [INFO]: Generated subject: ⏳ Don't Miss Out! 🎟️ 𝗧𝗵𝗲 𝗔 𝗥𝗲𝗺𝗼𝘁�
+2025-03-13T00:49:58.567Z [INFO]: Generated email body (1230 chars)
+2025-03-13T00:49:58.571Z [INFO]: Cleaned email subject: ⏳ Don't Miss Out! 🎟️ 𝗧𝗵𝗲 𝗔 𝗥𝗲𝗺𝗼𝘁�
+2025-03-13T00:49:58.611Z [ERROR]: Error processing email: config is not defined
+2025-03-13T00:50:03.524Z [INFO]: Email sent to xyakuzapro@gmail.com: <1741826998574.qyxix755@squarespace-panel.pp.ua>
+2025-03-13T00:50:04.069Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-13T00:50:05.743Z [INFO]: Generated subject: 💫Your Exclusive OpenSea Sneak Peak: Join Us! 💫
+2025-03-13T00:50:14.776Z [INFO]: Generated email body (1228 chars)
+2025-03-13T00:50:14.777Z [INFO]: Cleaned email subject: 💫 Your Exclusive Opensea Sneak Peak: Join Us!
+2025-03-13T00:50:14.807Z [ERROR]: Error processing email: config is not defined
+2025-03-13T00:50:19.289Z [INFO]: Email sent to adamlorde8@gmail.com: <1741827014778.rat6wow0@squarespace-panel.pp.ua>
+2025-03-13T00:58:11.235Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-13T00:58:11.248Z [INFO]: Created new HTTP proxy agent
+2025-03-13T00:58:11.256Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-13T00:58:11.257Z [INFO]: Configuration loaded successfully
+2025-03-13T00:58:11.272Z [INFO]: Server running on port 3000
+2025-03-13T00:58:11.273Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-13T00:58:11.274Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-13T00:58:11.275Z [INFO]: Cohere AI module loaded successfully
+2025-03-13T00:58:14.068Z [INFO]: SMTP connection successful on startup
+2025-03-13T00:58:29.911Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-13T00:58:31.842Z [INFO]: Generated subject: ⏳ Exclusive NFT Drop 💎 | OpenSea 💸
+2025-03-13T00:58:40.271Z [INFO]: Generated email body (1184 chars)
+2025-03-13T00:58:40.274Z [INFO]: Cleaned email subject: Exclusive NFT Drop | OpenSea
+2025-03-13T00:58:40.309Z [ERROR]: Error processing email: config is not defined
+2025-03-13T00:58:44.780Z [INFO]: Email sent to xyakuzapro@gmail.com: <1741827520276.e458tz9v@squarespace-panel.pp.ua>
+2025-03-13T00:58:45.285Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-13T00:58:47.050Z [INFO]: Generated subject: 🔥EARLY ACCESS TO OPENSEA X ADAMLORDE8 NFT DROP🔥
+2025-03-13T00:58:55.395Z [INFO]: Generated email body (1216 chars)
+2025-03-13T00:58:55.395Z [INFO]: Cleaned email subject: EARLY ACCESS TO OPENSEA X ADAMLORDE8 NFT DROP
+2025-03-13T00:58:55.416Z [ERROR]: Error processing email: config is not defined
+2025-03-13T00:59:00.025Z [INFO]: Email sent to adamlorde8@gmail.com: <1741827535396.z624dyor@squarespace-panel.pp.ua>
+2025-03-13T01:07:03.488Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-13T01:07:03.500Z [INFO]: Created new HTTP proxy agent
+2025-03-13T01:07:03.508Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-13T01:07:03.509Z [INFO]: Configuration loaded successfully
+2025-03-13T01:07:03.521Z [INFO]: Server running on port 3000
+2025-03-13T01:07:03.522Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-13T01:07:03.523Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-13T01:07:03.524Z [INFO]: Cohere AI module loaded successfully
+2025-03-13T01:07:08.046Z [INFO]: SMTP connection successful on startup
+2025-03-13T01:07:19.445Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-13T01:07:21.280Z [INFO]: Generated subject: 🔥XYakuzapro, Unlock Exclusive Early Access to OpenSea's Latest NFT Drop!🔥
+2025-03-13T01:07:29.463Z [INFO]: Generated email body (1159 chars)
+2025-03-13T01:07:29.466Z [INFO]: Cleaned email subject: XYakuzapro, Unlock Exclusive Early Access to OpenSea's Latest NFT Drop!
+2025-03-13T01:07:29.526Z [ERROR]: Error processing email: config is not defined
+2025-03-13T01:07:34.401Z [INFO]: Email sent to xyakuzapro@gmail.com: <1741828049469.jwvc62vc@squarespace-panel.pp.ua>
+2025-03-13T01:07:35.071Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-13T01:07:40.321Z [INFO]: Generated subject: 🔥 It's Here: Exclusive Early Access to OpenSea's Latest NFT Drop 🔥
+2025-03-13T01:07:49.553Z [INFO]: Generated email body (1307 chars)
+2025-03-13T01:07:49.553Z [INFO]: Cleaned email subject: It's Here: Exclusive Early Access to OpenSea's Latest NFT Drop
+2025-03-13T01:07:49.577Z [ERROR]: Error processing email: config is not defined
+2025-03-13T01:07:53.981Z [INFO]: Email sent to adamlorde8@gmail.com: <1741828069554.fi64phep@squarespace-panel.pp.ua>
+2025-03-13T01:22:35.207Z [INFO]: Using Bright Data specialized SMTP port: 9000
+2025-03-13T01:22:35.210Z [INFO]: Created new HTTP proxy agent
+2025-03-13T01:22:35.217Z [INFO]: SMTP transport created with residential proxy routing
+2025-03-13T01:22:35.218Z [INFO]: Configuration loaded successfully
+2025-03-13T01:22:35.227Z [INFO]: Server running on port 3000
+2025-03-13T01:22:35.228Z [INFO]: Using SMTP server: mail.exclusivehosting.net:465
+2025-03-13T01:22:35.228Z [INFO]: Sender email: noreply@squarespace-panel.pp.ua
+2025-03-13T01:22:35.230Z [INFO]: Cohere AI module loaded successfully
+2025-03-13T01:22:39.999Z [INFO]: SMTP connection successful on startup
+2025-03-13T01:23:24.911Z [INFO]: Generating unique content for xyakuzapro@gmail.com
+2025-03-13T01:23:27.448Z [INFO]: Generated subject: 🔥 xyakuzapro, Prepare for Takeoff: Exclusive Early Access to OpenSea's Latest NFT Drop! 🔑
+2025-03-13T01:23:38.460Z [INFO]: Generated email body (1529 chars)
+2025-03-13T01:23:38.463Z [INFO]: Cleaned email subject: xyakuzapro, Prepare for Takeoff: Exclusive Early Access to OpenSea's Latest NFT Drop!
+2025-03-13T01:23:38.525Z [ERROR]: Error processing email: config is not defined
+2025-03-13T01:23:43.244Z [INFO]: Email sent to xyakuzapro@gmail.com: <1741829018466.ui8yi1o1@squarespace-panel.pp.ua>
+2025-03-13T01:23:43.778Z [INFO]: Generating unique content for adamlorde8@gmail.com
+2025-03-13T01:23:51.439Z [INFO]: Generated subject: 🔥 Hey, [First Name]! You've Been Invited to 🎁 Exclusive Early Access to OpenSea's Latest NFT Drop 🎁 ⏰ Time to Get Excited
+2025-03-13T01:24:09.582Z [INFO]: Generated email body (1590 chars)
+2025-03-13T01:24:09.582Z [INFO]: Cleaned email subject: Hey, [First Name]! You've Been Invited to Exclusive Early Access to OpenSea's Latest NFT Drop Time to Get Excited
+2025-03-13T01:24:09.603Z [ERROR]: Error processing email: config is not defined
+2025-03-13T01:24:16.651Z [INFO]: Email sent to adamlorde8@gmail.com: <1741829049582.9vgb6w5s@squarespace-panel.pp.ua>
