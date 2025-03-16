@@ -1,0 +1,32 @@
+name: AI Mailer Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Copy files from AI_MAILER to src
+      run: |
+        cp -r AI_MAILER/* src/
+
+    - name: Install jq
+      run: sudo apt-get install -y jq
+
+    - name: Merge package.json files
+      run: |
+        jq -s '.[0] * .[1]' package.json AI_MAILER/package.json > merged_package.json
+        mv merged_package.json package.json
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run tests
+      run: npm test
