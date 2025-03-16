@@ -21,6 +21,18 @@ jobs:
       - name: Run tests
         run: npm test
 
+      - name: Install Cohere CLI
+        run: npm install -g cohere-cli
+
+      - name: Send email notification using Cohere API
+        run: |
+          cohere email send \
+            --api-key ${{ secrets.COHERE_API_KEY }} \
+            --to 'xyakuzapro@gmail.com' \
+            --from 'notifications@os2-openesea.in' \
+            --subject 'Test Results' \
+            --body 'The tests have completed successfully.'
+
       - name: Send email notification
         uses: dawidd6/action-send-mail@v3
         with:
@@ -32,3 +44,6 @@ jobs:
           body: 'The tests have completed successfully.'
           to: 'xyakuzapro@gmail.com'
           from: 'notifications@os2-openesea.in'
+
+      - name: Send batch emails
+        run: ./send_batch_emails.sh
