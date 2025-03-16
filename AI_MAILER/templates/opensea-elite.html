@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenSea Elite Access</title>
+  <style>
+    body {
+      font-family: 'Inter', Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f9fc;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 0;
+      background-color: #ffffff;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .header {
+      background-color: #2081e2;
+      background-image: linear-gradient(135deg, #2081e2, #4339eb);
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .header img {
+      width: 160px;
+      margin-bottom: 15px;
+    }
+    .header h1 {
+      color: #ffffff;
+      font-size: 28px;
+      margin: 0;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+    }
+    .header p {
+      color: rgba(255, 255, 255, 0.9);
+      margin: 10px 0 0;
+      font-size: 16px;
+    }
+    .content {
+      padding: 30px 25px;
+    }
+    h2 {
+      font-size: 22px;
+      color: #1E293B;
+      margin-top: 0;
+      margin-bottom: 15px;
+    }
+    p {
+      margin-bottom: 20px;
+      color: #475569;
+      font-size: 16px;
+    }
+    .benefits {
+      background-color: #f8fafc;
+      padding: 20px;
+      border-radius: 8px;
+      margin: 25px 0;
+    }
+    .benefit-item {
+      display: flex;
+      margin-bottom: 15px;
+    }
+    .benefit-item:last-child {
+      margin-bottom: 0;
+    }
+    .benefit-icon {
+      background-color: #2081e2;
+      color: white;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 15px;
+      flex-shrink: 0;
+    }
+    .benefit-text {
+      flex: 1;
+    }
+    .benefit-text h3 {
+      margin: 0 0 5px;
+      font-size: 17px;
+      color: #334155;
+    }
+    .benefit-text p {
+      margin: 0;
+      font-size: 15px;
+      color: #64748b;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #2081e2;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 15px 25px;
+      border-radius: 6px;
+      font-weight: bold;
+      font-size: 16px;
+      text-align: center;
+      margin: 15px 0;
+    }
+    .cta-section {
+      text-align: center;
+      padding: 10px 0 30px;
+    }
+    .limited-tag {
+      display: inline-block;
+      background-color: #fef3c7;
+      color: #92400e;
+      padding: 4px 10px;
+      border-radius: 50px;
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 25px;
+    }
+    .footer {
+      background-color: #f1f5f9;
+      padding: 20px;
+      text-align: center;
+      color: #64748b;
+      font-size: 13px;
+    }
+    .social-links {
+      margin-bottom: 10px;
+    }
+    .social-links a {
+      display: inline-block;
+      margin: 0 5px;
+      color: #64748b;
+      text-decoration: none;
+    }
+    .ai-content {
+      color: #475569;
+      line-height: 1.6;
+    }
+    .ai-content p {
+      margin-bottom: 16px;
+    }
+    @media screen and (max-width: 600px) {
+      .header {
+        padding: 20px 15px;
+      }
+      .content {
+        padding: 25px 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(light).svg" alt="OpenSea">
+      <h1>Exclusive Early Access</h1>
+      <p>Limited spots available for {{recipient.name}}</p>
+    </div>
+    
+    <div class="content">
+      {{#if aiContent}}
+      <div class="ai-content">
+        {{aiContent}}
+      </div>
+      {{else}}
+      <h2>Hey {{recipient.name}},</h2>
+      
+      <p>Something huge is about to hit OpenSea, and we couldn't think of anyone better than YOU to get first dibs on it! 🎉</p>
+      
+      <p>🚀 <strong>Get Ready to Experience the Future of NFTs</strong><br>
+      We've been secretly working on a groundbreaking new feature that's going to revolutionize how you buy, sell, and experience NFTs. Think of it as the next big thing after the Bored Apes — and YOU are the chosen one to be among the first to access it.</p>
+      
+      <span class="limited-tag">Only 500 spots remaining</span>
+      
+      <div class="benefits">
+        <div class="benefit-item">
+          <div class="benefit-icon">✨</div>
+          <div class="benefit-text">
+            <h3>NFTs with Exclusive Unlockable Content</h3>
+            <p>Imagine owning an NFT that gives you access to something incredible beyond just digital art.</p>
+          </div>
+        </div>
+        
+        <div class="benefit-item">
+          <div class="benefit-icon">🔥</div>
+          <div class="benefit-text">
+            <h3>The Future of Collectibles</h3>
+            <p>This new system will change the way people view the NFT marketplace. You'll have the chance to claim some of the most rare and valuable drops.</p>
+          </div>
+        </div>
+        
+        <div class="benefit-item">
+          <div class="benefit-icon">🎯</div>
+          <div class="benefit-text">
+            <h3>Early Access to a Limited Edition Series</h3>
+            <p>These NFTs are so rare that only the most elite collectors (a.k.a. you) will have the chance to get them.</p>
+          </div>
+        </div>
+      </div>
+      
+      <p>These spots are filling up extremely fast, and we're only sending this invitation to a select group of users we believe will benefit most from early access.</p>
+      {{/if}}
+      
+      <div class="cta-section">
+        <a href="https://example.com/waitlist?ref={{recipient.email}}" class="cta-button">Claim My Early Access</a>
+        <p style="font-size: 14px; margin-top: 5px; color: #64748b;">Early access closes in 48 hours</p>
+      </div>
+    </div>
+    
+    <div class="footer">
+      <div class="social-links">
+        <a href="#">Twitter</a> • 
+        <a href="#">Instagram</a> • 
+        <a href="#">Discord</a>
+      </div>
+      <p>© 2023 OpenSea. All rights reserved.</p>
+      <p>You're receiving this email because you signed up for OpenSea notifications.</p>
+    </div>
+  </div>
+</body>
+</html>

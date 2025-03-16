@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenSea Waitlist</title>
+  <style>
+    body {margin:0; padding:0; font-family:Arial, sans-serif; line-height:1.4; color:#333;}
+    .wrapper {width:100%; max-width:600px; margin:0 auto;}
+    .container {background:#fff; border-radius:5px; overflow:hidden;}
+    .header {padding:20px; text-align:center; border-bottom:1px solid #eaeaea;}
+    .header img {max-width:180px; height:auto;}
+    .content {padding:25px 20px; text-align:center;}
+    h1 {margin:0 0 15px; font-size:24px; line-height:1.3; color:#1F2937; font-weight:bold;}
+    p {margin:0 0 15px; font-size:16px;}
+    .button {background:#2081e2; color:#fff; font-weight:bold; text-decoration:none; padding:12px 25px; 
+        border-radius:4px; display:inline-block; margin:10px 0; font-size:16px;}
+    .features {margin:20px 0; text-align:left;}
+    .feature {margin-bottom:10px; padding-left:20px; position:relative;}
+    .feature:before {content:"•"; position:absolute; left:5px; color:#2081e2;}
+    .footer {background:#f8fafc; padding:15px; text-align:center; font-size:12px; color:#666; 
+        border-top:1px solid #eaeaea;}
+    .footer a {color:#666; text-decoration:none; margin:0 5px;}
+    .ai-content {text-align:left; margin-top:25px; border-top:1px solid #eaeaea; padding-top:15px;}
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="container">
+      <div class="header">
+        <img src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" alt="OpenSea">
+      </div>
+      
+      <div class="content">
+        <h1>Join Our Exclusive Waitlist</h1>
+        <p>Hello {{recipient.name}},</p>
+        {{#if aiContent}}
+        <div class="ai-content">
+          {{aiContent}}
+        </div>
+        {{/if}}
+        
+        <a href="https://example.com/waitlist?ref={{recipient.email}}" class="button">Join Waitlist</a>
+      </div>
+      
+      <div class="footer">
+        <p>© 2023 OpenSea. All rights reserved.</p>
+        <div>
+          <a href="#">Privacy</a> • 
+          <a href="#">Terms</a> • 
+          <a href="#">Contact</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="x-apple-disable-message-reformatting" content="">
+  <title>OpenSea Waitlist Confirmation</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #333333;
+      background-color: #f7f9fc;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+    }
+    .header {
+      background-color: #2081e2;
+      padding: 24px 0;
+      text-align: center;
+    }
+    .header img {
+      width: 150px;
+      height: auto;
+    }
+    .content {
+      padding: 30px 25px;
+      background-color: #ffffff;
+    }
+    h1 {
+      color: #1E293B;
+      font-size: 22px;
+      margin: 0 0 20px;
+      font-weight: 600;
+    }
+    p {
+      font-size: 16px;
+      color: #475569;
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+    .feature {
+      margin: 25px 0;
+      padding: 5px 0;
+    }
+    .feature-title {
+      font-weight: bold;
+      color: #334155;
+      margin-bottom: 5px;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #2081e2;
+      color: #ffffff !important;
+      text-decoration: none;
+      padding: 12px 25px;
+      border-radius: 6px;
+      font-weight: 500;
+      font-size: 16px;
+      margin: 20px 0;
+    }
+    .footer {
+      background-color: #f8fafc;
+      padding: 20px;
+      text-align: center;
+      color: #64748b;
+      font-size: 14px;
+    }
+    .footer a {
+      color: #64748b;
+      text-decoration: underline;
+    }
+    .ai-content {
+      color: #475569;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(light).svg" alt="OpenSea">
+    </div>
+    
+    <div class="content">
+      <h1>Your OpenSea Waitlist Status: New Collection Access</h1>
+      
+      {{#if aiContent}}
+      <div class="ai-content">
+        {{aiContent}}
+      </div>
+      {{else}}
+      <p>Hello {{recipient.name}},</p>
+      
+      <p>Thank you for joining the OpenSea waitlist for our upcoming collection. We're pleased to confirm your place among our early access members.</p>
+      
+      <p>This new collection represents a significant advancement in what's possible with NFTs. Here's what you can expect:</p>
+      
+      <div class="feature">
+        <div class="feature-title">Early Collection Access</div>
+        <p>You'll be among the first to view and acquire pieces from this unique collection when it launches.</p>
+      </div>
+      
+      <div class="feature">
+        <div class="feature-title">Enhanced NFT Features</div>
+        <p>Each NFT includes special unlockable content beyond just the digital artwork, adding more value to your collection.</p>
+      </div>
+      
+      <div class="feature">
+        <div class="feature-title">Community Benefits</div>
+        <p>Connect with fellow collectors and creators in a private forum created specifically for early members.</p>
+      </div>
+      
+      <p>Your position on the waitlist is secured. We're currently finalizing preparations and will notify you as soon as your access is ready.</p>
+      
+      <p>While we prepare for the release, you can explore our current collections and set up your preferences for the upcoming drop.</p>
+      {{/if}}
+      
+      <div style="text-align: center;">
+        <a href="https://example.com/waitlist?ref={{recipient.email}}" class="cta-button">View My Waitlist Status</a>
+      </div>
+      
+      <p>We appreciate your interest in OpenSea and look forward to sharing this opportunity with you soon.</p>
+      
+      <p>Best regards,<br>The OpenSea Team</p>
+    </div>
+    
+    <div class="footer">
+      <p>&copy; 2023 OpenSea. All rights reserved.</p>
+      <p>
+        <a href="#">Privacy Policy</a> | 
+        <a href="#">Terms of Service</a> | 
+        <a href="#">Unsubscribe</a>
+      </p>
+    </div>
+  </div>
+</body>
+</html>

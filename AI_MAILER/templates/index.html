@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Mailer Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f7f9fc;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        code {
+            background-color: #f0f0f0;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AI Mailer Service</h1>
+        <p>This service is running correctly. Use the API endpoints to send emails.</p>
+        
+        <h2>Available Endpoints:</h2>
+        <ul>
+            <li><code>GET /health</code> - Check service health</li>
+            <li><code>POST /api/send-email</code> - Send an email</li>
+        </ul>
+        
+        <h2>Example API Request:</h2>
+        <pre><code>
+POST /api/send-email
+Content-Type: application/json
+
+{
+    "to": "recipient@example.com",
+    "subject": "Test Email",
+    "body": "This is a test email from the AI Mailer service."
+}
+        </code></pre>
+    </div>
+</body>
+</html>
