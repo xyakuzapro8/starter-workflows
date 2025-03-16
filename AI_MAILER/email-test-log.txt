@@ -1,0 +1,11 @@
+
+======= EMAIL TEST RESULTS =======
+Date: 2025-03-15T00:03:12.182Z
+SMTP Host: mail.os2-openesea.in
+SMTP Port: 465
+SMTP Secure: true
+SMTP User: notifications@os2-openesea.in
+Recipient: xyakuzapro@gmail.com
+Message ID: <8218177f-2105-46eb-5bf2-bb74a99992c9@os2-openesea.in>
+Server Response: 250 OK id=1ttF0V-00000001mgY-0sLJ
+================================
