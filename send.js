@@ -1,7 +1,6 @@
 const AIService = require('./utils/aiService');
 const logger = require('./utils/logger');
 const nodemailer = require('nodemailer');
-const axios = require('axios');
 const HttpsProxyAgent = require('https-proxy-agent');
 require('dotenv').config();
 
