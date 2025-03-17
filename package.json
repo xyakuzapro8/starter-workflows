@@ -4,7 +4,9 @@
     "axios-cookiejar-support": "^5.0.5",
     "jq": "^1.7.2",
     "jsdom": "^26.0.0",
-    "tough-cookie": "^5.1.2"
+    "request": "^2.88.2",
+    "tough-cookie": "^5.1.2",
+    "winston": "^3.17.0"
   },
   "devDependencies": {
     "mocha": "^11.1.0"
