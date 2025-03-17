@@ -33,5 +33,9 @@ jobs:
     - name: Install dependencies
       run: npm install
 
+    - name: Install additional dependencies
+      run: |
+        npm install axios axios-cookiejar-support tough-cookie
+
     - name: Run tests
       run: npm test
